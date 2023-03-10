@@ -27,8 +27,7 @@ Déclaration de la fonction setup
 void setup() {
   
   //declaration de A0 en tant que sortie
-  pinMode(Led, OUTPUT); *
-
+  pinMode(Led, OUTPUT);
 }
 
 ```
