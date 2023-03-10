@@ -1,4 +1,4 @@
-## Arduino Entrée Analogique (A0 à A5) --> Sortie Digital (D14 à D19)
+## Arduino Entrée Analogique (A0) --> Sortie Digital (D14)
 
 Ce petit projet a pour but de montrer la possibilité de conversion
 **d'entrée analogique** en **sorti digital** cela peut servir en divers 
