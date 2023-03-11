@@ -49,4 +49,7 @@ void loop() {
 }
 ```
 
+Dans le cas ou l'on souhaite crée le montage il faut connecté la Borne + de la led en A0 la Borne - a un resistance
+de minmum 350 ohm et on connecte la résistance à la borne -.
+
 <sub> R5ELS </sub>
