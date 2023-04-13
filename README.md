@@ -10,7 +10,7 @@ Pour commencer ce code on va utilisé un **#define** Pour definir la Broche A0
 en tant que broche sortie digital. En regardant la __datasheet__ des pins on
 voit que **A0** est aussi __le même pin__ que **D14** donc on peut define une led en tant que sortie 14
 
-define :
+### define :
 ```C++
 
 //Pin D14 ou entrée Analogique A0
@@ -21,7 +21,7 @@ define :
 Une fois la led défini il faut la **définir** en tant que __sortie__
 
 
-Déclaration de la fonction setup
+### fonction setup :
 ```C++
 
 void setup() {
@@ -35,7 +35,7 @@ void setup() {
 Ensuite on peut l'utilisé dans un __programme classique__ dans l'exemple si dessous 
 un programme de base qui va faire clignoté la **Led**
 
-Programme de la boucle
+### Void loop :
 ```C++
 
 void loop() {
